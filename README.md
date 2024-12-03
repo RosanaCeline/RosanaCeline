@@ -7,9 +7,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
 <ul>
-  <li>⚡ Apaixonada por Tecnologia e Inovação.</li>
+  <li>💜 Apaixonada por Tecnologia e Inovação.</li>
   <li>💻 Focada em Desenvolvimento Web Fullstack.</li>
-  <li>📖 Estudante de Bacharelado em Ciência da Computação, no Instituto Federal do Ceará.</li>
+  <li>🤖 Estudante de Bacharelado em Ciência da Computação, no Instituto Federal do Ceará.</li>
   <li>📚 Cursando Técnico em Informática, no Instituto Federal do Ceará.</li>
   <li>🧠 Bolsista em Desenvolvimento de uma Solução Inteligente Baseada em Fenotipagem Digital para Saúde Mental.</li>
 </ul>
