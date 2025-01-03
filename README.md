@@ -53,4 +53,4 @@
 
 <h2 align="left">🌍 Other Languages</h2>
 
-<p>If you prefer, you can view this profile in Portuguese by clicking <a href="./README-ptbr.md">here</a>.</p>
+<p>If you prefer, you can view this profile in Portuguese by clicking <a href="./README-ptBR.md">here</a>.</p>
