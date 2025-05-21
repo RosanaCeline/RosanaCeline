@@ -16,22 +16,22 @@
 
 ###
 
-<h2 align="left">👨‍💻 Linguagens</h2>
+<h2 align="left">👨‍💻 Linguagens & Tecnologias</h2>
 
-<div align="left" >
-    <a href="https://skillicons.dev"   >
-      <img src="https://skillicons.dev/icons?i=css,html,javascript,java,python,c" />
+<div align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=css,html,javascript,java,spring,python,mysql" />
     </a>
     <br />
 </div>
 
 ###
 
-<h2>⚙️ Ferramentas</h2>
+<h2 align="left">⚙️ Ferramentas</h2>
 
-<div align="left" >
-    <a href="https://skillicons.dev"   >
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+<div align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,figma" />
     </a>
     <br />
 </div>
