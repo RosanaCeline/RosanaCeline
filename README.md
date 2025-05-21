@@ -16,11 +16,11 @@
 
 ###
 
-<h2 align="left">👨‍💻 Languages</h2>
+<h2 align="left">👨‍💻 Languages & Technologies</h2>
 
 <div align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=css,html,javascript,java,python,c" />
+      <img src="https://skillicons.dev/icons?i=css,html,javascript,java,spring,python,mysql" />
     </a>
     <br />
 </div>
@@ -31,7 +31,7 @@
 
 <div align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,figma" />
     </a>
     <br />
 </div>
