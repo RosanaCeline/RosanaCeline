@@ -1,39 +1,40 @@
 <h2 align="left">Olá 👋! Meu nome é Rosana Celine!</h2>
 
+Desenvolvedora backend com mentalidade DevOps. Construo a aplicação e a levo até a produção.
+
 ###
 
 <h2 align="left">✨ Sobre mim</h2>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
-<ul>
-  <li>💜 Apaixonada por Tecnologia e Inovação.</li>
-  <li>💻 Focada em Desenvolvimento Web Fullstack.</li>
-  <li>🤖 Estudante de Bacharelado em Ciência da Computação, no Instituto Federal do Ceará.</li>
-  <li>📚 Cursando Técnico em Informática, no Instituto Federal do Ceará.</li>
-  <li>🧠 Bolsista em Desenvolvimento de uma Solução Inteligente Baseada em Fenotipagem Digital para Saúde Mental.</li>
-</ul>
-
+- 🎓 Graduanda em Ciência da Computação no Instituto Federal do Ceará (IFCE), com formação técnica em Informática na mesma instituição.
+- ☕ Foco em desenvolvimento backend com **Java 21, Spring Boot, APIs RESTful e PostgreSQL**.
+- 🐳 Cuido do ciclo completo até a produção: Docker, servidores Linux, proxy reverso com Nginx e deploy em ambientes reais.
+- 🧪 Experiência com testes automatizados (Python, Robot Framework) e CI/CD com GitHub Actions.
+- 🧠 Concluí a bolsa PIBITI com uma solução inteligente para fenotipagem digital em saúde mental.
+- 🏗️ Atualmente em um projeto de fiscalização predial e transparência cidadã.
+- 🤝 Projetos voluntários e acadêmicos, como ONG Coração Valente, Her Tech Rise e Boamente.
+- 🎯 Busco oportunidades em Backend ou DevOps/Infraestrutura.
 ###
 
-<h2 align="left">👨‍💻 Linguagens & Tecnologias</h2>
+
+<h2 align="left">👩‍💻 Linguagens e Tecnologias</h2>
 
 <div align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=css,html,javascript,java,spring,python,mysql" />
-    </a>
-    <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,py,postgres,mysql,js,html,css" />
+  </a>
 </div>
 
 ###
 
-<h2 align="left">⚙️ Ferramentas</h2>
+<h2 align="left">⚙️ Infraestrutura e Ferramentas</h2>
 
 <div align="left">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,figma" />
-    </a>
-    <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions,idea,vscode,figma" />
+  </a>
 </div>
 
 ###
